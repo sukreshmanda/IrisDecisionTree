@@ -1,3 +1,3 @@
 # IrisDecisionTree
 
-![alt text](https://raw.githubusercontent.com/sukreshmanda/IrisDecisionTree/master/img.png)
+![alt text](https://github.com/sukreshmanda/IrisDecisionTree/blob/master/image.png)
