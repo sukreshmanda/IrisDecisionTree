@@ -10,6 +10,3 @@
 
 # Execution 
 $ python3 classifier.py
-
-# output
-![alt-text](iris.pdf)
